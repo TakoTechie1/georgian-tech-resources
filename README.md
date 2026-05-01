@@ -26,7 +26,7 @@
 ### 🤖 AI და კოდირება
 
 - ✅ [Claude Code გაიდლაინი ქართულად](./ai-coding/CLAUDE-georgian.md) — Andrej Karpathy-ის პრინციპები ქართულად
-- 🔜 AI Tools 2026 — შედარება (ChatGPT vs Claude vs Gemini)
+- ✅ [AI Tools 2026 — სრული გზამკვლევი](./ai-coding/ai-tools-2026.md) — ChatGPT vs Claude vs Gemini, Midjourney, Sora და სხვა (ფასები, plus/minus, რეკომენდაციები)
 - 🔜 Prompt Engineering ქართულად
 
 ### 📱 კონტენტ კრეატორებისთვის
