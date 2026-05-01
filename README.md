@@ -31,7 +31,7 @@
 
 ### 📱 კონტენტ კრეატორებისთვის
 
-- 🔜 AI Caption Prompts — 50+ მზა prompt-ი caption-ებისთვის
+- ✅ [AI Prompts ქართველი კრეატორებისთვის](./content-creators/ai-prompts-georgian.md) — 22+ მზა prompt Instagram, TikTok, LinkedIn, Facebook, YouTube-ისთვის
 - 🔜 კონტენტ იდეების ბანკი — 100+ იდეა ნიშების მიხედვით
 - 🔜 უფასო AI ინსტრუმენტები კრეატორებისთვის
 
