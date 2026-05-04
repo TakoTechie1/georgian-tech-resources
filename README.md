@@ -21,6 +21,7 @@
 [![AI Prompts](https://img.shields.io/badge/🎨_AI_Prompts-კრეატორებისთვის-8A2BE2?style=for-the-badge)](./content-creators/ai-prompts-georgian.md)
 [![AI Tools 2026](https://img.shields.io/badge/🤖_AI_Tools-2026_გზამკვლევი-007ACC?style=for-the-badge)](./ai-coding/ai-tools-2026.md)
 [![Claude Code](https://img.shields.io/badge/💻_Claude_Code-ქართულად-FF6B35?style=for-the-badge)](./ai-coding/CLAUDE-georgian.md)
+[![Marketers](https://img.shields.io/badge/📈_Marketers-AI_Stack_+_Audit-2B8B57?style=for-the-badge)](./marketers/README.md)
 
 </div>
 
@@ -35,6 +36,7 @@
 - [📚 კატეგორიები](#-კატეგორიები)
   - [🤖 AI და კოდირება](#-ai-და-კოდირება)
   - [🎨 კონტენტ კრეატორებისთვის](#-კონტენტ-კრეატორებისთვის)
+  - [📈 მარკეტერებისთვის](#-მარკეტერებისთვის)
   - [💻 დეველოპერებისთვის](#-დეველოპერებისთვის)
 - [🚀 როგორ გამოიყენო](#-როგორ-გამოიყენო)
 - [🤝 წვლილის შეტანა](#-წვლილის-შეტანა)
@@ -54,6 +56,7 @@
 |---------|--------------|
 | 🤖 **AI-ით კოდირება** | როგორ ვათქმევინოთ Claude/Cursor/Copilot-ს ნამდვილად კარგი კოდი |
 | 🎨 **კონტენტ კრეატორობა** | prompt-ები, შაბლონები, ინსტრუმენტები |
+| 📈 **მარკეტინგი + AI** | prompt-ები, audit-ი, Claude Project setup, tool stack |
 | 💻 **დეველოპმენტი** | სასწავლო რესურსები, tools, best practices |
 | 🎯 **დიზაინი და პროდუქტი** | ინსტრუმენტები და გაიდები |
 
@@ -69,6 +72,7 @@
 |:------:|---------|--------|
 | ✅ | [Claude Code გაიდლაინი ქართულად](./ai-coding/CLAUDE-georgian.md) | Andrej Karpathy-ის პრინციპები ქართულად |
 | ✅ | [AI Tools 2026 — სრული გზამკვლევი](./ai-coding/ai-tools-2026.md) | ChatGPT vs Claude vs Gemini, Midjourney, Sora და სხვა |
+| 🆕 | [GPT-5.5 Quick Reference](./ai-coding/gpt-5.5-quick-reference.md) | OpenAI-ის ახალი მოდელი — ფუნქციები, ფასი, შედარება Claude-თან |
 | 🔜 | Prompt Engineering ქართულად | მალე |
 
 ### 🎨 კონტენტ კრეატორებისთვის
@@ -78,6 +82,18 @@
 | ✅ | [AI Prompts ქართველი კრეატორებისთვის](./content-creators/ai-prompts-georgian.md) | 22+ მზა prompt Instagram, TikTok, LinkedIn, Facebook, YouTube-ისთვის |
 | 🔜 | კონტენტ იდეების ბანკი | 100+ იდეა ნიშების მიხედვით |
 | 🔜 | უფასო AI ინსტრუმენტები კრეატორებისთვის | მალე |
+
+### 📈 მარკეტერებისთვის
+
+| სტატუსი | რესურსი | აღწერა |
+|:------:|---------|--------|
+| 🆕 | [5 AI Prompt ქართული მცირე ბიზნესისთვის](./marketers/5-ai-prompts-for-georgian-smb.md) | SEO meta, Facebook ad, Google Business, sentiment, hooks |
+| 🆕 | [Claude-ის 5 ფარული ფუნქცია](./marketers/claude-hidden-features.md) | Projects, Artifacts, Custom Styles, Chat Search, Voice Mode |
+| 🆕 | [Claude Project — Setup გაიდი](./marketers/claude-project-setup.md) | სრული setup — system prompt, brand voice worksheet, 10 starter prompt |
+| 🆕 | [AI-მარკეტინგის აუდიტ-Checklist](./marketers/ai-marketing-audit-checklist.md) | 15 პუნქტი 5 კატეგორიაში — გაუშვი 30 წუთში |
+| 🆕 | [AI ხელსაწყოების Stack 2026](./marketers/tool-stack-2026.md) | 12 ხელსაწყო 6 კატეგორიაში — Writing, Design, Research, SEO, Video |
+| 🔜 | მაისის Content Calendar 2026 | 30 პოსტის იდეა ქართული ბიზნესისთვის |
+| 🔜 | Customer Review-ს პასუხების შაბლონები | 20 თბილი და კონკრეტული ვარიანტი |
 
 ### 💻 დეველოპერებისთვის
 
