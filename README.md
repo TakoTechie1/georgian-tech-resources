@@ -92,8 +92,8 @@
 | 🆕 | [Claude Project — Setup გაიდი](./marketers/claude-project-setup.md) | სრული setup — system prompt, brand voice worksheet, 10 starter prompt |
 | 🆕 | [AI-მარკეტინგის აუდიტ-Checklist](./marketers/ai-marketing-audit-checklist.md) | 15 პუნქტი 5 კატეგორიაში — გაუშვი 30 წუთში |
 | 🆕 | [AI ხელსაწყოების Stack 2026](./marketers/tool-stack-2026.md) | 12 ხელსაწყო 6 კატეგორიაში — Writing, Design, Research, SEO, Video |
+| 🆕 | [20 Customer Review Reply Templates](./marketers/customer-review-replies.md) | 5 დადებითი + 5 უარყოფითი + 5 კითხვა + 5 ნეიტრალური + best practice |
 | 🔜 | მაისის Content Calendar 2026 | 30 პოსტის იდეა ქართული ბიზნესისთვის |
-| 🔜 | Customer Review-ს პასუხების შაბლონები | 20 თბილი და კონკრეტული ვარიანტი |
 
 ### 💻 დეველოპერებისთვის
 
