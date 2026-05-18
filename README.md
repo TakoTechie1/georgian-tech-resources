@@ -22,6 +22,7 @@
 [![AI Tools 2026](https://img.shields.io/badge/🤖_AI_Tools-2026_გზამკვლევი-007ACC?style=for-the-badge)](./ai-coding/ai-tools-2026.md)
 [![Claude Code](https://img.shields.io/badge/💻_Claude_Code-ქართულად-FF6B35?style=for-the-badge)](./ai-coding/CLAUDE-georgian.md)
 [![Marketers](https://img.shields.io/badge/📈_Marketers-AI_Stack_+_Audit-2B8B57?style=for-the-badge)](./marketers/README.md)
+[![Makers](https://img.shields.io/badge/🛠️_Makers-Vibe_Coding-9B59B6?style=for-the-badge)](./makers/README.md)
 
 </div>
 
@@ -37,6 +38,7 @@
   - [🤖 AI და კოდირება](#-ai-და-კოდირება)
   - [🎨 კონტენტ კრეატორებისთვის](#-კონტენტ-კრეატორებისთვის)
   - [📈 მარკეტერებისთვის](#-მარკეტერებისთვის)
+  - [🛠️ ბილდერებისთვის (Makers)](#-ბილდერებისთვის-makers)
   - [💻 დეველოპერებისთვის](#-დეველოპერებისთვის)
 - [🚀 როგორ გამოიყენო](#-როგორ-გამოიყენო)
 - [🤝 წვლილის შეტანა](#-წვლილის-შეტანა)
@@ -57,6 +59,7 @@
 | 🤖 **AI-ით კოდირება** | როგორ ვათქმევინოთ Claude/Cursor/Copilot-ს ნამდვილად კარგი კოდი |
 | 🎨 **კონტენტ კრეატორობა** | prompt-ები, შაბლონები, ინსტრუმენტები |
 | 📈 **მარკეტინგი + AI** | prompt-ები, audit-ი, Claude Project setup, tool stack |
+| 🛠️ **ბილდერები (Makers)** | Vibe Coding, no-code app builders — კოდის გარეშე აშენება |
 | 💻 **დეველოპმენტი** | სასწავლო რესურსები, tools, best practices |
 | 🎯 **დიზაინი და პროდუქტი** | ინსტრუმენტები და გაიდები |
 
@@ -95,6 +98,15 @@
 | 🆕 | [20 Customer Review Reply Templates](./marketers/customer-review-replies.md) | 5 დადებითი + 5 უარყოფითი + 5 კითხვა + 5 ნეიტრალური + best practice |
 | 🆕 | [AI Marketing Cheat Sheet](./marketers/ai-marketing-cheat-sheet.md) | 1-გვერდიანი visual reference card — prompts, tools, quick wins, mistakes |
 | 🔜 | მაისის Content Calendar 2026 | 30 პოსტის იდეა ქართული ბიზნესისთვის |
+
+### 🛠️ ბილდერებისთვის (Makers)
+
+| სტატუსი | რესურსი | აღწერა |
+|:------:|---------|--------|
+| 🆕 | [Vibe Coding ქართულად — სრული გზამკვლევი](./makers/vibe-coding-georgian.md) | რა არის, რომელი ხელსაწყო — Cursor, Claude Code, Lovable, v0, Bolt, Base44 |
+| 🔜 | Lovable Setup გაიდი | Lovable-ით პირველი აპის აშენება ნულიდან |
+| 🔜 | v0 ქართულად | landing page-ის შექმნა 10 წუთში |
+| 🔜 | First AI Project — Tutorial | რეალური მინი-პროექტი ნულიდან, ნაბიჯ-ნაბიჯ |
 
 ### 💻 დეველოპერებისთვის
 
