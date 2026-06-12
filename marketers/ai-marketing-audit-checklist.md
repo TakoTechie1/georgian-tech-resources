@@ -1,3 +1,11 @@
+---
+title: "AI-მარკეტინგ აუდიტი — 15 პუნქტიანი Checklist"
+layout: default
+parent: "მარკეტერებისთვის"
+nav_order: 2
+permalink: /marketers/ai-marketing-audit-checklist/
+---
+
 # AI-მარკეტინგ აუდიტი — 15 პუნქტიანი Checklist
 
 > 30-წუთიანი თვით-აუდიტი ქართული მცირე ბიზნესისთვის. გაუშვი — ნახე სად ჭიოდრდება შენი workflow და რას უნდა გაეცნო პირველ რიგში.

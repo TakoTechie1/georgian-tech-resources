@@ -1,3 +1,11 @@
+---
+title: "Claude Code / AI კოდირების გაიდლაინი — ქართულად"
+layout: default
+parent: "AI და კოდირება"
+nav_order: 1
+permalink: /ai-coding/CLAUDE-georgian/
+---
+
 # 🇬🇪 Claude Code / AI კოდირების გაიდლაინი — ქართულად
 
 ეს ფაილი არის ქართული ადაპტაცია **Andrej Karpathy**-ის (OpenAI-ის თანადამფუძნებელი, Tesla-ს ყოფილი AI დირექტორი) დაკვირვებებიდან გამომდინარე გაიდლაინებისა. ორიგინალი ინგლისური ვერსია: [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) (23,000+ stars ერთ კვირაში 🔥).

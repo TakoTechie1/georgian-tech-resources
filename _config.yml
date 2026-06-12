@@ -1,0 +1,104 @@
+title: Georgian Tech Resources
+description: ქართველი tech საზოგადოებისთვის სასარგებლო რესურსების კოლექცია — AI, დეველოპმენტი, კონტენტ კრეატორობა, მარკეტინგი
+url: "https://takotechie1.github.io"
+baseurl: "/georgian-tech-resources"
+lang: ka
+
+# Theme
+remote_theme: just-the-docs/just-the-docs
+
+# Color scheme
+color_scheme: dark
+
+# Search
+search_enabled: true
+search:
+  heading_level: 3
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s\-/]+/
+  rel_url: true
+  button: false
+
+# Navigation
+nav_enabled: true
+nav_external_links:
+  - title: "GitHub Repo"
+    url: "https://github.com/TakoTechie1/georgian-tech-resources"
+    hide_icon: false
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/tamar-khatiashvili-6046b0302/"
+    hide_icon: false
+
+# Aux links (top-right)
+aux_links:
+  "⭐ Star on GitHub":
+    - "https://github.com/TakoTechie1/georgian-tech-resources"
+
+aux_links_new_tab: true
+
+# Footer
+footer_content: 'შექმნილია 🤍-ით საქართველოში — <a href="https://github.com/TakoTechie1">Tamar Khatiashvili</a>. გავრცელება: <a href="https://github.com/TakoTechie1/georgian-tech-resources/blob/main/LICENSE">MIT</a>.'
+
+last_edit_timestamp: true
+last_edit_time_format: "%Y-%m-%d %H:%M"
+gh_edit_link: true
+gh_edit_link_text: "ცვლილების შემოთავაზება GitHub-ზე"
+gh_edit_repository: "https://github.com/TakoTechie1/georgian-tech-resources"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
+
+# Heading anchors
+heading_anchors: true
+
+# Back to top
+back_to_top: true
+back_to_top_text: "ზევით"
+
+# Callouts
+callouts:
+  warning:
+    title: ⚠️ გაფრთხილება
+    color: yellow
+  note:
+    title: 📝 შენიშვნა
+    color: blue
+  tip:
+    title: 💡 რჩევა
+    color: green
+  important:
+    title: 🔥 მნიშვნელოვანი
+    color: red
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+# SEO defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      author: Tamar Khatiashvili
+      lang: ka
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore
+  - README.md
+  - "marketers/README.md"
+  - "makers/README.md"
+  - "news-digests/README.md"
+  - "*.pdf"
+  - .DS_Store
+
+# Permalink style
+permalink: pretty

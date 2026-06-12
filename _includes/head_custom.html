@@ -1,0 +1,31 @@
+{%- assign og_image = '/assets/images/og-cover.png' | absolute_url -%}
+{%- assign page_title = page.title | default: site.title -%}
+{%- assign page_desc = page.description | default: site.description -%}
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ page.url | absolute_url }}" />
+<meta property="og:title" content="{{ page_title }} — Georgian Tech Resources" />
+<meta property="og:description" content="{{ page_desc }}" />
+<meta property="og:image" content="{{ og_image }}" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:locale" content="ka_GE" />
+<meta property="og:site_name" content="Georgian Tech Resources" />
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:url" content="{{ page.url | absolute_url }}" />
+<meta name="twitter:title" content="{{ page_title }} — Georgian Tech Resources" />
+<meta name="twitter:description" content="{{ page_desc }}" />
+<meta name="twitter:image" content="{{ og_image }}" />
+
+<!-- Theme color -->
+<meta name="theme-color" content="#0D1B2A" />
+
+<!-- Apple touch icon -->
+<link rel="apple-touch-icon" href="{{ '/assets/images/og-cover.png' | relative_url }}" />
+
+<!-- Preconnect to Google Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />

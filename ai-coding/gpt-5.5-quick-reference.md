@@ -1,3 +1,11 @@
+---
+title: "GPT-5.5 Quick Reference (ქართულად)"
+layout: default
+parent: "AI და კოდირება"
+nav_order: 2
+permalink: /ai-coding/gpt-5.5-quick-reference/
+---
+
 # GPT-5.5 Quick Reference (ქართულად)
 
 > OpenAI-ის ახალი მოდელი GPT-5.5 გამოვიდა 2026 წლის 23 აპრილს. ეს ფაილი მოკლე გზამკვლევია — რა შეუძლია, ვისთვის გამოდგება, როგორ ეცნობოს.

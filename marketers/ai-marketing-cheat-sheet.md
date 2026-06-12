@@ -1,3 +1,11 @@
+---
+title: "AI Marketing Cheat Sheet — ერთი გვერდი"
+layout: default
+parent: "მარკეტერებისთვის"
+nav_order: 3
+permalink: /marketers/ai-marketing-cheat-sheet/
+---
+
 # AI Marketing Cheat Sheet — ერთი გვერდი
 
 > ერთი დენსი reference card — ყველაფერი მთავარი ერთად. ტოპ prompt-ები, ხელსაწყოები, quick win-ები და ხშირი შეცდომები. ქართველი მცირე ბიზნესისთვის.

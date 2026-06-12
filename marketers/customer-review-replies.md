@@ -1,3 +1,11 @@
+---
+title: "20 Customer Review Reply Templates ქართულად"
+layout: default
+parent: "მარკეტერებისთვის"
+nav_order: 6
+permalink: /marketers/customer-review-replies/
+---
+
 # 20 Customer Review Reply Templates ქართულად
 
 > 20 პროფესიული შაბლონი Google, Facebook და Instagram review-ებისთვის. დაჯგუფებული 4 ტიპად — დადებითი, უარყოფითი, კითხვები, ნეიტრალური. ყოველი — ქართულ კონტექსტში გამოცდილი.

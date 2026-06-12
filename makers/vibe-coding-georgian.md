@@ -1,3 +1,11 @@
+---
+title: "Vibe Coding ქართულად — სრული გზამკვლევი"
+layout: default
+parent: "ბილდერებისთვის (Makers)"
+nav_order: 1
+permalink: /makers/vibe-coding-georgian/
+---
+
 # Vibe Coding ქართულად — სრული გზამკვლევი
 
 > რა არის Vibe Coding, ვინ მოიფიქრა, რომელი ხელსაწყოები გვაქვს და როგორ დავიწყო — ნულიდან. ქართულად, პრაქტიკული მაგალითებით.

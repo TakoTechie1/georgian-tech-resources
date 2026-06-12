@@ -1,3 +1,11 @@
+---
+title: "AI Prompts for Content Creators (ქართულად)"
+layout: default
+parent: "კონტენტ კრეატორებისთვის"
+nav_order: 1
+permalink: /content-creators/ai-prompts-georgian/
+---
+
 # AI Prompts for Content Creators (ქართულად)
 
 > 50+ მზა AI prompt ქართველი კონტენტ კრეატორებისთვის, SMM სპეციალისტებისთვის და ბრენდებისთვის. Copy-paste და გამოიყენე.

@@ -1,3 +1,11 @@
+---
+title: "Claude Project — სრული Setup გაიდი ქართული მცირე ბიზნესისთვი"
+layout: default
+parent: "მარკეტერებისთვის"
+nav_order: 5
+permalink: /marketers/claude-project-setup/
+---
+
 # Claude Project — სრული Setup გაიდი ქართული მცირე ბიზნესისთვის
 
 > 30-წუთიანი setup, რომელიც Claude-ს გადააქცევს თქვენი ბრენდის voice-ის მცოდნე ასისტენტად. ჩაგდე ერთხელ — Claude უკვე ცნობს თქვენს ბიზნესს ყოველ ჩათში.
