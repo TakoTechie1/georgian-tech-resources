@@ -8,7 +8,6 @@ permalink: /
 
 <div class="hero">
   <h1 class="hero__title">🇬🇪 Georgian Tech Resources</h1>
-  <p class="hero__subtitle">ქართველი tech საზოგადოებისთვის — ერთ ადგილზე</p>
   <p class="hero__lede">
     AI prompts · ხელსაწყოები · გზამკვლევები · News digests · Vibe coding<br>
     <strong>ყველაფერი ქართულად ან ქართული კონტექსტით.</strong>
