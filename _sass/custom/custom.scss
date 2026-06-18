@@ -83,11 +83,18 @@ code, pre, kbd, samp {
   text-decoration: none !important;
   color: #F5F6FA !important;
   transition: all 0.25s ease;
+  -webkit-tap-highlight-color: transparent;
 
   &:hover {
     transform: translateY(-3px);
     border-color: #58A6FF;
     box-shadow: 0 12px 32px rgba(88, 166, 255, 0.15);
+  }
+
+  // Touch devices: hover doesn't fire, so give a pressed state instead
+  &:active {
+    border-color: #58A6FF;
+    background: linear-gradient(135deg, #1A2A4A 0%, #21345A 100%);
   }
 
   &__icon {
@@ -122,9 +129,18 @@ code, pre, kbd, samp {
   }
 }
 
-// Cleaner tables
+// Cleaner tables — wrap so wide tables scroll instead of overflowing on mobile
+.table-wrapper,
 table {
   font-size: 0.92rem;
+}
+
+// just-the-docs wraps tables; ensure horizontal scroll on narrow screens
+.main-content table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
 table th {
@@ -193,13 +209,54 @@ blockquote {
   border: 1px solid #3A4A6A !important;
 }
 
-// Responsive
+// Responsive — tablet & down
 @media (max-width: 768px) {
+  body {
+    font-size: 15px;
+  }
+
   .hero {
     padding: 2rem 0 1.5rem;
   }
 
   .category-grid {
     grid-template-columns: 1fr;
+    gap: 0.85rem;
+    margin: 1.5rem 0;
+  }
+
+  .category-card {
+    padding: 1.25rem;
+  }
+}
+
+// Responsive — small phones
+@media (max-width: 480px) {
+  .hero {
+    padding: 1.5rem 0 1.25rem;
+
+    &__title {
+      font-size: 1.85rem;
+    }
+
+    &__lede {
+      font-size: 0.95rem;
+    }
+
+    &__cta {
+      flex-direction: column;
+      gap: 0.6rem;
+    }
+
+    // Full-width, comfortably tappable buttons on phones
+    &__btn {
+      width: 100%;
+      padding: 0.85rem 1rem;
+      text-align: center;
+    }
+  }
+
+  .category-card__icon {
+    font-size: 2rem;
   }
 }

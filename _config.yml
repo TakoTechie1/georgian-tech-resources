@@ -78,6 +78,7 @@ plugins:
   - jekyll-redirect-from
 
 # SEO defaults
+image: /assets/images/og-cover-v2.png
 defaults:
   - scope:
       path: ""
@@ -85,6 +86,7 @@ defaults:
       layout: default
       author: Tamar Khatiashvili
       lang: ka
+      image: /assets/images/og-cover-v2.png
 
 # Exclude from processing
 exclude:
@@ -97,7 +99,6 @@ exclude:
   - "marketers/README.md"
   - "makers/README.md"
   - "news-digests/README.md"
-  - "*.pdf"
   - .DS_Store
 
 # Permalink style
